@@ -19,9 +19,6 @@
 #FL-2930
 >=sys-fs/udev-init-scripts-28
 
-#FL-2903: these drivers are not reliable, beta only
-=x11-drivers/nvidia-drivers-358*
-
 #FL-2814
 >=net-misc/tor-0.2.7.3
 
